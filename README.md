@@ -33,3 +33,5 @@ The project consists of three break-points
 > Test RMSE: 56343233.34 <br/>
 > Test R<sup>2</sup> S=score: -0.02009
  
+ <h3> Future scope </h3>
+ Complete interactive dashboard using Flutter.
