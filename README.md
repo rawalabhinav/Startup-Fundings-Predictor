@@ -3,9 +3,9 @@ Complete analysis, prediction and visualization using the startup funding datase
 
 ---
 The project consists of three break-points
-- Analysis
-- Pipeline setup
-- Prediction
+* Analysis
+* Pipeline setup
+* Prediction
 
 <h3> Libraries used </h3>
 - Numpy, Pandas, Matplotplib for analysis and pre-processing
