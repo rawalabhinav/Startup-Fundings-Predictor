@@ -1,19 +1,32 @@
-<h1> Startup-Fundings-Predictor </h1>
+<h1> Startup Fundings Predictor </h1>
 Complete analysis, prediction and visualization using the startup funding dataset.
 
 ---
 The project consists of three break-points
-* Analysis
-* Pipeline setup
-* Prediction
+
+<div>
+<ul>
+  <li>Analysis</li>
+  <li>Pipeline setup</li>
+  <li>Prediction </li>
+</ul>
+</div>
 
 <h3> Libraries used </h3>
-- Numpy, Pandas, Matplotplib for analysis and pre-processing <br/>
-- Tensorflow/Keras, Scikit-learn for pipelining and setup <br/>
- 
- <h3> Pipeline setup </h3>
-![Setup](https://user-images.githubusercontent.com/77731025/184048387-1b142284-8345-431a-a9b3-aa460b11aeb3.png)
+<div>
+<ul>
+  <li>Numpy, Pandas, Matplotplib for analysis and pre-processing</li>
+  <li>Tensorflow/Keras, Scikit-learn for pipelining and setup</li>
+</ul>
+</div>
 
+<h3> Analysis </h3>
+
+<h3> Pipeline setup </h3>
+![image](https://user-images.githubusercontent.com/77731025/184049706-73fe3498-a83b-4c83-90aa-6ffcdaad2b87.png)
+
+
+ <h3> Prediction </h3>
  
  <h3> Results </h3>
  
