@@ -30,7 +30,7 @@ The project consists of three break-points
  
  <h3> Results </h3>
  
-> Test RMSE: 56343233.34 <br/>
+> Test RMSE: 0.34 <br/>
 > Test R<sup>2</sup> S=score: 0.52009
  
  <h3> Future scope </h3>
